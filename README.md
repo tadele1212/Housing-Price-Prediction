@@ -1,6 +1,3 @@
-
-
-```markdown
 # Housing Price Prediction
 
 This project uses machine learning to predict housing prices based on various features such as area, number of bedrooms, bathrooms, and other amenities. The model is built using **Linear Regression** to predict the price of a house based on the dataset provided.
