@@ -48,7 +48,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Dataset
 
-The dataset used in this project is a CSV file containing house-related features. It can be downloaded from Google Drive or any other source, and is placed in the `data/` directory. 
+The dataset used in this project is a CSV file containing house-related features. It can be downloaded from Google Drive or any other source, and is placed in the `data/` directory.
 
 The dataset has the following columns:
 
@@ -112,4 +112,3 @@ The model is evaluated using:
 - **Mean Squared Error (MSE)**: Measures the average squared difference between the predicted and actual values.
 - **R² (R-squared)**: Indicates how well the independent variables explain the variance of the dependent variable (house price).
 ```
-
