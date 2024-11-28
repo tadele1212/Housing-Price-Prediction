@@ -1,3 +1,5 @@
+
+
 ```markdown
 # Housing Price Prediction
 
@@ -7,8 +9,8 @@ This project uses machine learning to predict housing prices based on various fe
 
 The goal of this project is to build a machine learning model to predict house prices based on various features:
 
-- ##Price##: The target variable (house price).
-- #Area#: The area of the house in square feet.
+- **Price**: The target variable (house price).
+- **Area**: The area of the house in square feet.
 - **Bedrooms**: The number of bedrooms in the house.
 - **Bathrooms**: The number of bathrooms in the house.
 - **Stories**: The number of stories (floors) in the house.
@@ -52,19 +54,19 @@ The dataset used in this project is a CSV file containing house-related features
 
 The dataset has the following columns:
 
-- `price`: The price of the house (target variable).
-- `area`: The area of the house in square feet.
-- `bedrooms`: Number of bedrooms in the house.
-- `bathrooms`: Number of bathrooms.
-- `stories`: Number of stories (floors).
-- `mainroad`: Whether the house is on the main road (yes/no).
-- `guestroom`: Whether the house has a guestroom (yes/no).
-- `basement`: Whether the house has a basement (yes/no).
-- `hotwaterheating`: Whether the house has hot water heating (yes/no).
-- `airconditioning`: Whether the house has air conditioning (yes/no).
-- `parking`: Number of parking spaces.
-- `prefarea`: Whether the house is in a preferred area (yes/no).
-- `furnishingstatus`: Furnishing status of the house (furnished/semi-furnished/unfurnished).
+- **price**: The price of the house (target variable).
+- **area**: The area of the house in square feet.
+- **bedrooms**: Number of bedrooms in the house.
+- **bathrooms**: Number of bathrooms.
+- **stories**: Number of stories (floors).
+- **mainroad**: Whether the house is on the main road (yes/no).
+- **guestroom**: Whether the house has a guestroom (yes/no).
+- **basement**: Whether the house has a basement (yes/no).
+- **hotwaterheating**: Whether the house has hot water heating (yes/no).
+- **airconditioning**: Whether the house has air conditioning (yes/no).
+- **parking**: Number of parking spaces.
+- **prefarea**: Whether the house is in a preferred area (yes/no).
+- **furnishingstatus**: Furnishing status of the house (furnished/semi-furnished/unfurnished).
 
 ## Technologies Used
 
@@ -78,20 +80,23 @@ The dataset has the following columns:
 ## Usage
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/housing-price-prediction.git
-    cd housing-price-prediction
-    ```
+
+```bash
+git clone https://github.com/yourusername/housing-price-prediction.git
+cd housing-price-prediction
+```
 
 2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+```bash
+pip install -r requirements.txt
+```
 
 3. Run the model:
-    ```bash
-    python housing_price_prediction.py
-    ```
+
+```bash
+python housing_price_prediction.py
+```
 
 This will preprocess the dataset, train the model, and output the evaluation metrics such as Mean Squared Error and R² score.
 
@@ -109,6 +114,12 @@ The model uses **Linear Regression** from `sklearn.linear_model` to train the da
 ### Model Evaluation
 
 The model is evaluated using:
+
 - **Mean Squared Error (MSE)**: Measures the average squared difference between the predicted and actual values.
 - **R² (R-squared)**: Indicates how well the independent variables explain the variance of the dependent variable (house price).
 ```
+
+### Key Notes:
+
+- Make sure that when you paste the content into GitHub, it should automatically render properly if the Markdown syntax is correct.
+- Ensure that the file has a `.md` extension (e.g., `README.md`).
