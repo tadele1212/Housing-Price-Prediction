@@ -7,8 +7,8 @@ This project uses machine learning to predict housing prices based on various fe
 
 The goal of this project is to build a machine learning model to predict house prices based on various features:
 
-- **Price**: The target variable (house price).
-- **Area**: The area of the house in square feet.
+- ##Price##: The target variable (house price).
+- #Area#: The area of the house in square feet.
 - **Bedrooms**: The number of bedrooms in the house.
 - **Bathrooms**: The number of bathrooms in the house.
 - **Stories**: The number of stories (floors) in the house.
