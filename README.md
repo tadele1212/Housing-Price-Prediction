@@ -1,5 +1,3 @@
-Here is the updated `README.md` without the table of contents, license, or GitHub tutorial:
-
 ```markdown
 # Housing Price Prediction
 
@@ -115,4 +113,3 @@ The model is evaluated using:
 - **R² (R-squared)**: Indicates how well the independent variables explain the variance of the dependent variable (house price).
 ```
 
-This version removes the table of contents, GitHub tutorial, and license section. It focuses solely on the project details, installation, dataset, and code explanation.
