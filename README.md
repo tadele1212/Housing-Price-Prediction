@@ -114,9 +114,4 @@ The model is evaluated using:
 
 - **Mean Squared Error (MSE)**: Measures the average squared difference between the predicted and actual values.
 - **R² (R-squared)**: Indicates how well the independent variables explain the variance of the dependent variable (house price).
-```
-
-### Key Notes:
-
-- Make sure that when you paste the content into GitHub, it should automatically render properly if the Markdown syntax is correct.
-- Ensure that the file has a `.md` extension (e.g., `README.md`).
+  
